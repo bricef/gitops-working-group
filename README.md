@@ -11,7 +11,7 @@ The group’s initial task will be to deliver a GitOps Manifesto which clearly d
 ## Contents
 
 - [GitOps Working Group Mission](./MISSION.md) 
-- [The GitOps Manifesto](./MANIFESTO.md)
+- [The GitOps Principles](./PRINCIPLES.md)
 - [GitOps Personas](./PERSONAS.md)
 - [GitOps Glossary](./GLOSSARY.md)
 - [FAQ](./FAQ.md)
